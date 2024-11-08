@@ -4,8 +4,8 @@ import json
 import random
 
 # Spotify API credentials (replace with your client ID and client secret)
-SPOTIPY_CLIENT_ID = '23539e9256f840e2b35065228fa05555'
-SPOTIPY_CLIENT_SECRET = '6fc91146d2ae4021a0fb3f2be7eae699'
+SPOTIPY_CLIENT_ID = 'Fill this in'
+SPOTIPY_CLIENT_SECRET = 'Fill this in'
 SPOTIPY_REDIRECT_URI = 'https://developer.spotify.com/'
 
 
