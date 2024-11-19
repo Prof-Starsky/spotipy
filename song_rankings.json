@@ -57,7 +57,7 @@
     },
     "49n1ev92Q1Gn8bI1exatGt": {
         "wins": 3,
-        "losses": 5,
+        "losses": 6,
         "draws": 1,
         "points": 7,
         "name": "cat serenade",
@@ -81,17 +81,17 @@
     },
     "57ogQzcfCwQW1YoBdfz4Wa": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 1,
         "name": "Henceforth (feat. IA)",
         "artist": "Orangestar"
     },
     "3VrKkcEm7RYXBI9RLv7SL7": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "\u51ac\u306e\u306f\u306a\u3057",
         "artist": "\u30ae\u30f4\u30f3"
     },
@@ -192,10 +192,10 @@
         "artist": "\u30e8\u30eb\u30b7\u30ab"
     },
     "0LhO8Td0kFQyILmNmlvUBc": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 3,
-        "points": 5,
+        "points": 7,
         "name": "Wataridori",
         "artist": "[Alexandros]"
     },
@@ -232,10 +232,10 @@
         "artist": "BURNOUT SYNDROMES"
     },
     "3AXurFcVRfTGxXBVpqLY2d": {
-        "wins": 5,
+        "wins": 6,
         "losses": 0,
         "draws": 1,
-        "points": 11,
+        "points": 13,
         "name": "The War Is Over",
         "artist": "Cage The Elephant"
     },
@@ -329,7 +329,7 @@
     },
     "7xmkcZJJsT1san7GjuksE6": {
         "wins": 3,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 7,
         "name": "Stay With Me",
@@ -346,8 +346,8 @@
     "2JoZzpdeP2G6Csfdq5aLXP": {
         "wins": 2,
         "losses": 1,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "How Deep Is Your Love",
         "artist": "Bee Gees"
     },
@@ -409,7 +409,7 @@
     },
     "7ajpbW6tBpqUI9foCtwlLw": {
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 4,
         "name": "\u795d\u798f",
@@ -426,8 +426,8 @@
     "0IkKz2J93C94Ei4BvDop7P": {
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Party Rock Anthem",
         "artist": "LMFAO"
     },
@@ -488,10 +488,10 @@
         "artist": "K-OS"
     },
     "7ccI9cStQbQdystvc6TvxD": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "We Are The Champions - Remastered 2011",
         "artist": "Queen"
     },
@@ -594,8 +594,8 @@
     "5qqqgLXECWbgaKLlq4YWkS": {
         "wins": 1,
         "losses": 3,
-        "draws": 1,
-        "points": 3,
+        "draws": 2,
+        "points": 4,
         "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
         "artist": "\u4e43\u7d2b"
     },
@@ -632,10 +632,10 @@
         "artist": "\u30e8\u30eb\u30b7\u30ab"
     },
     "2iscENxaM7EI43TVSyNUjz": {
-        "wins": 6,
+        "wins": 7,
         "losses": 0,
         "draws": 0,
-        "points": 12,
+        "points": 14,
         "name": "Touch off",
         "artist": "UVERworld"
     },
@@ -664,10 +664,10 @@
         "artist": "Junko Yagami"
     },
     "2BvWrqOlNvUUHJphJ8YHLK": {
-        "wins": 0,
-        "losses": 2,
+        "wins": 1,
+        "losses": 3,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "\u604d\u60da\u30e9\u30d3\u30ea\u30f3\u30b9",
         "artist": "\u9060\u85e4\u6b63\u660e"
     },
@@ -825,7 +825,7 @@
     },
     "0rc9XLNs7KZXu2ASA3LbL8": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 2,
         "name": "MISTAKE",
@@ -834,14 +834,14 @@
     "02cIqYTYys4M1RBFiBKIEt": {
         "wins": 2,
         "losses": 3,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "Life is Like a Boat",
         "artist": "Rie fu"
     },
     "5YGhQpZhMBTJ4ROUns2MVB": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 1,
         "points": 3,
         "name": "Party Like Its 1920",
@@ -873,7 +873,7 @@
     },
     "08t2vjBtsQwjFrDq5aXuFA": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 1,
         "points": 1,
         "name": "Dusk and madder, dust and flower",
@@ -1008,10 +1008,10 @@
         "artist": "nasuo"
     },
     "6JTUCs01Y8POQjeh5lDvlo": {
-        "wins": 3,
+        "wins": 4,
         "losses": 2,
         "draws": 1,
-        "points": 7,
+        "points": 9,
         "name": "\u30b4\u30fc\u30b4\u30fc\u5e7d\u970a\u8239",
         "artist": "Kenshi Yonezu"
     },
@@ -1168,10 +1168,10 @@
         "artist": "Nic D"
     },
     "2kbbbiM2xmbdL85SALO4Ed": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 1,
-        "points": 7,
+        "points": 9,
         "name": "\u30cf\u30a4\u30d1\u30fc\u30d9\u30f3\u30c1\u30ec\u30a4\u30b7\u30e7\u30f3",
         "artist": "RADWIMPS"
     },
@@ -1185,7 +1185,7 @@
     },
     "1wc971fXAVObXkpL8ZEqDT": {
         "wins": 3,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 7,
         "name": "Legacy",
@@ -1201,17 +1201,17 @@
     },
     "0Wv9Ckm088qsVkMKPH170C": {
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 2,
         "name": "Shiver",
         "artist": "Lucy Rose"
     },
     "6TigsoyoeqHi9YxymTfj0x": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30ba\u30fb\u30a6\u30a7\u30a4\uff01",
         "artist": "Shiritsu Ebisu Chugaku"
     },
@@ -1241,7 +1241,7 @@
     },
     "1ExfPZEiahqhLyajhybFeS": {
         "wins": 3,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 7,
         "name": "The Lazy Song",
@@ -1280,10 +1280,10 @@
         "artist": "Kanaria"
     },
     "2jL0xsUhizWTTTDyh4uxUm": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 0,
-        "points": 6,
+        "points": 8,
         "name": "Bennie And The Jets - 2018 Version",
         "artist": "Elton John"
     },
@@ -1369,7 +1369,7 @@
     },
     "4s2tqBxez0SYkoRAyhRWDN": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Mousouzei",
@@ -1410,8 +1410,8 @@
     "4gbVRS8gloEluzf0GzDOFc": {
         "wins": 2,
         "losses": 0,
-        "draws": 2,
-        "points": 6,
+        "draws": 3,
+        "points": 7,
         "name": "Maps",
         "artist": "Maroon 5"
     },
@@ -1440,10 +1440,10 @@
         "artist": "Kyuuwaii"
     },
     "02Q03qPPPF7xZAc3rduMNO": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "Haikei Sakura Maichiru Kono Hi Ni",
         "artist": "Mafumafu"
     },
@@ -1474,8 +1474,8 @@
     "4bywwz0p3efDEKdiTX4qEc": {
         "wins": 2,
         "losses": 2,
-        "draws": 1,
-        "points": 5,
+        "draws": 2,
+        "points": 6,
         "name": "Can't Hold Us (Clean Radio Version)",
         "artist": "Jack Sanders"
     },
@@ -1600,10 +1600,10 @@
         "artist": "Connor Price"
     },
     "2WfaOiMkCvy7F5fcp2zZ8L": {
-        "wins": 4,
+        "wins": 5,
         "losses": 0,
         "draws": 2,
-        "points": 10,
+        "points": 12,
         "name": "Take on Me",
         "artist": "a-ha"
     },
@@ -1633,7 +1633,7 @@
     },
     "1la2bVnBPYUN7tbWpjNnWG": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 1,
         "points": 1,
         "name": "No Matter What (feat. Zach Callison & Michaela Dietz)",
@@ -1672,10 +1672,10 @@
         "artist": "Tobi & Manny"
     },
     "0m3Ze0cy8qBHSsV2exAfCw": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 1,
-        "points": 7,
+        "points": 9,
         "name": "Amazing",
         "artist": "Kanye West"
     },
@@ -1721,7 +1721,7 @@
     },
     "5woYIqlHZygzj7fVLgAUo3": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 2,
         "name": "No Sleep Till Brooklyn",
@@ -1754,8 +1754,8 @@
     "1kPpge9JDLpcj15qgrPbYX": {
         "wins": 3,
         "losses": 0,
-        "draws": 1,
-        "points": 7,
+        "draws": 2,
+        "points": 8,
         "name": "Good Time",
         "artist": "Owl City"
     },
@@ -1769,7 +1769,7 @@
     },
     "4ByEFOBuLXpCqvO1kw8Wdm": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 2,
         "points": 4,
         "name": "(I Just) Died In Your Arms",
@@ -1792,10 +1792,10 @@
         "artist": "Lamp"
     },
     "7j56HrjR9cGzvekvZY3Faz": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "HandClap",
         "artist": "Fitz and The Tantrums"
     },
@@ -1930,8 +1930,8 @@
     "64yajM6CxtLghmgB53VeXT": {
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "points": 0,
+        "draws": 2,
+        "points": 2,
         "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
         "artist": "Mrs. GREEN APPLE"
     },
@@ -2208,10 +2208,10 @@
         "artist": "Kenshi Yonezu"
     },
     "4PlQp1Xc5RdZq6PGhTHepL": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 3,
-        "points": 5,
+        "points": 7,
         "name": "Sunday Morning - Illfactor Timbaland Mix",
         "artist": "K-OS"
     },
@@ -2256,18 +2256,18 @@
         "artist": "Minshara"
     },
     "3Y9WaG78KtzydfPotu6suF": {
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Crazy",
         "artist": "Shawn Mendes"
     },
     "56pvqFKGXPjubh5eY6sOlv": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "Is There Still Anything That Love Can Do?",
         "artist": "RADWIMPS"
     },
@@ -2289,7 +2289,7 @@
     },
     "15Rj8v80X171RLRGSKluGg": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 3,
         "name": "\u30ba\u30eb\u304f\u3066\u3059\u3054\u3044",
@@ -2305,9 +2305,9 @@
     },
     "1ucGAtXZNRxuc1feYXjbYe": {
         "wins": 1,
-        "losses": 2,
-        "draws": 0,
-        "points": 2,
+        "losses": 3,
+        "draws": 1,
+        "points": 3,
         "name": "War!",
         "artist": "Zach Callison"
     },
@@ -2361,7 +2361,7 @@
     },
     "3RAfIcX5tOWYme07TfOCsm": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 1,
         "name": "Story Of The Untold",
@@ -2498,8 +2498,8 @@
     "4IadxL6BUymXlh8RCJJu7T": {
         "wins": 5,
         "losses": 0,
-        "draws": 0,
-        "points": 10,
+        "draws": 1,
+        "points": 11,
         "name": "Too Sweet",
         "artist": "Hozier"
     },
@@ -2576,10 +2576,10 @@
         "artist": "uutubo"
     },
     "44wXefe8WB9Fd6xwtmAwbR": {
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 5,
         "name": "Monkey Wrench",
         "artist": "Foo Fighters"
     },
@@ -2593,7 +2593,7 @@
     },
     "6Vc5wAMmXdKIAM7WUoEb7N": {
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "draws": 1,
         "points": 7,
         "name": "Say Something",
@@ -2656,10 +2656,10 @@
         "artist": "Ikimonogakari"
     },
     "3No0EpgGz2YwbSJvVSWbh2": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 2,
-        "points": 6,
+        "points": 8,
         "name": "Nisha Labyrinth (feat. Sophiya)",
         "artist": "Asteria"
     },
@@ -2728,10 +2728,10 @@
         "artist": "JVKE"
     },
     "1GTC0DN9LGOdP0NdvoHyX7": {
-        "wins": 5,
+        "wins": 6,
         "losses": 2,
         "draws": 0,
-        "points": 10,
+        "points": 12,
         "name": "\u3086\u3081\u3046\u3064\u3064",
         "artist": "Lamp"
     },
@@ -2784,18 +2784,18 @@
         "artist": "SZA"
     },
     "1eb9Vvbbk2OgI0CbyMmBkw": {
-        "wins": 4,
+        "wins": 5,
         "losses": 1,
         "draws": 2,
-        "points": 10,
+        "points": 12,
         "name": "\u7fa4\u9752\u8b83\u6b4c",
         "artist": "Eve"
     },
     "6emzRn11iO8a4lQGbyJg7i": {
         "wins": 0,
         "losses": 3,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Gyakutengeki",
         "artist": "Tsukuyomi"
     },
@@ -2881,7 +2881,7 @@
     },
     "09t4fSXGyw7zQeXdvYK5zJ": {
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "points": 2,
         "name": "ROSETTA",
@@ -2896,10 +2896,10 @@
         "artist": "Cloning"
     },
     "6wuj7kT7v4pq9A7GhCnqhZ": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "Reason for existence",
         "artist": "Tsukuyomi"
     },
@@ -2952,10 +2952,10 @@
         "artist": "Mop Top"
     },
     "3iNyZ7EXkNhZlaTdBrXPaG": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 2,
-        "points": 4,
+        "points": 6,
         "name": "mabel",
         "artist": "balloon"
     },
@@ -3010,8 +3010,8 @@
     "57MvUwzIzRJ0r21rnNU1s1": {
         "wins": 2,
         "losses": 0,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "\u4e0d\u53ef\u5e78\u529b",
         "artist": "Vaundy"
     },
@@ -3024,10 +3024,10 @@
         "artist": "The Proclaimers"
     },
     "0pbNcVCYCFvbPaF98w9h5a": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "IF",
         "artist": "Tsukuyomi"
     },
@@ -3049,7 +3049,7 @@
     },
     "4TPjUaLhatFVTk3HDIgnBA": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 3,
         "name": "Song of the Dead - English Cover",
@@ -3072,10 +3072,10 @@
         "artist": "Owl City"
     },
     "1lB6TCFlx4f50wdetOuGcT": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "What You Won't Do for Love",
         "artist": "Bobby Caldwell"
     },
@@ -3128,10 +3128,10 @@
         "artist": "Alec Benjamin"
     },
     "7vP671IKgFYxIS9Nn78Laa": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "Mama Said Knock You Out",
         "artist": "LL COOL J"
     },
@@ -3209,7 +3209,7 @@
     },
     "27isIXvB8Hs5sM8lYGkkTz": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "Thinking About You",
@@ -3274,8 +3274,8 @@
     "2yAVzRiEQooPEJ9SYx11L3": {
         "wins": 0,
         "losses": 3,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
         "artist": "Eiffel 65"
     },
@@ -3393,7 +3393,7 @@
     },
     "5EZvAw5NlgMK6L4RX6aqOq": {
         "wins": 1,
-        "losses": 5,
+        "losses": 6,
         "draws": 0,
         "points": 2,
         "name": "Supersonic",
@@ -3432,16 +3432,16 @@
         "artist": "\u30ad\u30e3\u30ed\u30eb&\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4(Vo.Nai Br.XX&Celeina Ann)"
     },
     "4yArKbGbCefDwqD4STLmFH": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 7,
         "name": "HOT COFFEE (feat. CHINZA DOPENESS, tipleso, SAKKON & BASI)",
         "artist": "IN-SIST"
     },
     "3PZ3L74f26SFyQfVLfuMnH": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "\u30cf\u30b0\u30eb\u30de",
@@ -3681,7 +3681,7 @@
     },
     "0hMBzK9Ng94hycB8JNBngU": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Don't Stop",
@@ -3697,7 +3697,7 @@
     },
     "3vlGt07VLPkzI5q78uOzOb": {
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 5,
         "name": "Karma",
@@ -3777,7 +3777,7 @@
     },
     "5eZaT21ZVGyGHJ8kcwaNxA": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "points": 0,
         "name": "Party In the CIA (Parody of \"Party In The U.S.A.\" by Miley Cyrus)",
@@ -3832,10 +3832,10 @@
         "artist": "Drake"
     },
     "1v3SmmWX9lHYGXii4SmAts": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 2,
-        "points": 4,
+        "points": 6,
         "name": "Violet",
         "artist": "Wild Party"
     },
@@ -3938,8 +3938,8 @@
     "1SviOIgEA8sEPVgYEdCpnh": {
         "wins": 1,
         "losses": 4,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "A Bar Song (Tipsy)",
         "artist": "Shaboozey"
     },
@@ -4001,7 +4001,7 @@
     },
     "52SvKTH6jFGVAhpL2aLLbH": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 1,
         "points": 1,
         "name": "I Think I Like It",
@@ -4009,7 +4009,7 @@
     },
     "0ZFayEwoO5qqYjsOi8YDjO": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 2,
         "name": "Real",
@@ -4080,10 +4080,10 @@
         "artist": "Connor Price"
     },
     "4MwVirVMyerMiHkFomOZay": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "\u5618\u6708",
         "artist": "\u30e8\u30eb\u30b7\u30ab"
     },
@@ -4138,8 +4138,8 @@
     "2RqjBr7Cwwznth88Bb2Pxh": {
         "wins": 1,
         "losses": 2,
-        "draws": 1,
-        "points": 3,
+        "draws": 2,
+        "points": 4,
         "name": "Won't Back Down",
         "artist": "Eminem"
     },
@@ -4209,7 +4209,7 @@
     },
     "2VfL7O1PVWxQGQE7XrOYbY": {
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "draws": 1,
         "points": 1,
         "name": "\u30c7\u30a3\u30fc\u30d0 (feat. \u521d\u97f3\u30df\u30af)",
@@ -4393,7 +4393,7 @@
     },
     "7tdvs2ZRY4kmkqCPvF5MMG": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "Now You Know",
@@ -4417,7 +4417,7 @@
     },
     "4MXalYvPQB9tC9IAk8gKVR": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 2,
         "points": 4,
         "name": "Lost in Paradise (From \"Jujutsu Kaisen\")",
@@ -4432,10 +4432,10 @@
         "artist": "vivid undress"
     },
     "6hIlhl0dHbyhncChSURr7h": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 2,
-        "points": 2,
+        "points": 4,
         "name": "\u751f\u7d72",
         "artist": "Yoh kamiyama"
     },
@@ -4472,10 +4472,10 @@
         "artist": "Shuta Sueyoshi"
     },
     "6uSe3ACORUIVrAyiP84RZi": {
-        "wins": 4,
+        "wins": 5,
         "losses": 0,
         "draws": 1,
-        "points": 9,
+        "points": 11,
         "name": "melt bitter",
         "artist": "satomoka"
     },
@@ -4528,10 +4528,10 @@
         "artist": "raph"
     },
     "7rIovIsXE6kMn629b7kDig": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "I Will Survive",
         "artist": "Gloria Gaynor"
     },
@@ -4545,7 +4545,7 @@
     },
     "3EEaEEltAaQAp0EhIwJEaK": {
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "draws": 0,
         "points": 0,
         "name": "Kizukeyo Baby",
@@ -4616,18 +4616,18 @@
         "artist": "Kenshi Yonezu"
     },
     "4080qNZP4kWloqGH3ujVkp": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 0,
-        "points": 6,
+        "points": 8,
         "name": "Trickster",
         "artist": "FIVE NEW OLD"
     },
     "4BBwxAA4Ww0CRstH2epx41": {
         "wins": 2,
         "losses": 3,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "Euphoria",
         "artist": "Andora"
     },
@@ -4672,10 +4672,10 @@
         "artist": "The Kid LAROI"
     },
     "6j8gTlbhj9KJSeypNcNAS9": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 2,
-        "points": 8,
+        "points": 10,
         "name": "Street Lights",
         "artist": "Kanye West"
     },
@@ -4753,7 +4753,7 @@
     },
     "11YWR8tzDTR2P4KZ3lAySj": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Drift Away",
@@ -4808,10 +4808,10 @@
         "artist": "Kocchi no Kento"
     },
     "3RoYcdgCpAWlVuTP99S9Z1": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "role call",
         "artist": "again&again"
     },
@@ -4824,10 +4824,10 @@
         "artist": "FAKE TYPE."
     },
     "3F2XxZ8aFAHxYhTeTsIiNZ": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "Believe What I Say",
         "artist": "Kanye West"
     },
@@ -4874,8 +4874,8 @@
     "3WlYzt2DnqOVM5n55e3tmC": {
         "wins": 2,
         "losses": 1,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "See Below",
         "artist": "The Ghost Club"
     },
@@ -4912,10 +4912,10 @@
         "artist": "Fear, and Loathing in Las Vegas"
     },
     "24uvFK1ceLlMEa5WqZAQoB": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "RED OUT",
         "artist": "Kenshi Yonezu"
     },
@@ -4928,10 +4928,10 @@
         "artist": "M\u00e5neskin"
     },
     "2pXmohBUnD5Li93sgpbPSg": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
         "artist": "YOASOBI"
     },
@@ -4986,8 +4986,8 @@
     "6bfu99plgbTsNYXAm6dORg": {
         "wins": 2,
         "losses": 0,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "Come On Eileen - Single Edit",
         "artist": "Dexys Midnight Runners"
     },
@@ -5104,10 +5104,10 @@
         "artist": "BASI"
     },
     "2djTXG5iBTGbDLx01njwIn": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 2,
-        "points": 2,
+        "points": 4,
         "name": "Lotus",
         "artist": "Osvaldorio"
     },
@@ -5136,10 +5136,10 @@
         "artist": "SEKAI NO OWARI"
     },
     "4EG10OLde2d8EisbYoKTuZ": {
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "\u4e09\u539f\u8272",
         "artist": "PELICAN FANCLUB"
     },
@@ -5184,10 +5184,10 @@
         "artist": "LiSA"
     },
     "1rXM4OirUNGGtkbYeqZ9je": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 1,
-        "points": 5,
+        "points": 7,
         "name": "Melody on Replay",
         "artist": "jomm"
     },
@@ -5249,7 +5249,7 @@
     },
     "0we7ShV1o6cPTFjxOADPbC": {
         "wins": 3,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 6,
         "name": "Outcast",
@@ -5288,10 +5288,10 @@
         "artist": "Chinozo"
     },
     "5pBIavXhjzTi0u7pkOK71N": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 1,
-        "points": 5,
+        "points": 7,
         "name": "\u30d5\u30a9\u30cb\u30a4",
         "artist": "\u30c4\u30df\u30ad"
     },
@@ -5304,10 +5304,10 @@
         "artist": "ninzin"
     },
     "3GsiCUipvdSCOSNVcHkJYl": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "\u306a\u3044\u306a\u3044",
         "artist": "ReoNa"
     },
@@ -5352,10 +5352,10 @@
         "artist": "Lukas Graham"
     },
     "0afhq8XCExXpqazXczTSve": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "Galway Girl",
         "artist": "Ed Sheeran"
     },
@@ -5377,7 +5377,7 @@
     },
     "1I6xj2Nn4JDMd0zdJC0Pnp": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "wit and love",
@@ -5409,7 +5409,7 @@
     },
     "3vjy2Guv89g2GDn4DJl53G": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "Falling in a Dream",
@@ -5681,7 +5681,7 @@
     },
     "3iBgrkexCzVuPy4O9vx7Mf": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Glue Song",
@@ -5714,8 +5714,8 @@
     "68kzSOasUaWuouxVu3nOih": {
         "wins": 0,
         "losses": 2,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "ECHO",
         "artist": "CIRCRUSH(CircusP+Crusher-P)"
     },
@@ -5728,10 +5728,10 @@
         "artist": "FLOW"
     },
     "6norVbAE14clVMEyDuRw1m": {
-        "wins": 3,
+        "wins": 5,
         "losses": 0,
         "draws": 0,
-        "points": 6,
+        "points": 10,
         "name": "Luv (sic) pt4 (feat. Shing02)",
         "artist": "Nujabes"
     },
@@ -5904,10 +5904,10 @@
         "artist": "ASOBI\u540c\u76df"
     },
     "2F91gzFzuZcfX5NwU34cZw": {
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
-        "draws": 1,
-        "points": 3,
+        "draws": 3,
+        "points": 7,
         "name": "Wicked feat. Mori Calliope",
         "artist": "Hoshimachi Suisei"
     },
@@ -6008,10 +6008,10 @@
         "artist": "Reol"
     },
     "2F1TnUCnHE0657EkEduKpw": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "My Town, My City",
         "artist": "Skitz The Samurida"
     },
@@ -6032,10 +6032,10 @@
         "artist": "Tsukuyomi"
     },
     "0QGWqZnE4C5MU4YMWG9BOk": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "CROW",
         "artist": "UPIKO"
     },
@@ -6073,7 +6073,7 @@
     },
     "1Np8Uf6RTomJNnUxT0DnQ7": {
         "wins": 0,
-        "losses": 1,
+        "losses": 3,
         "draws": 1,
         "points": 1,
         "name": "Won't Go",
@@ -6137,7 +6137,7 @@
     },
     "5qqmH59XIIH6OOl8FtZ72k": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 2,
         "points": 2,
         "name": "DIP",
@@ -6169,7 +6169,7 @@
     },
     "6cJSXxvl9l94huIUIqsEQo": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 1,
         "name": "Digital Silence",
@@ -6344,16 +6344,16 @@
         "artist": "Calmera"
     },
     "6eAnWf8yT7GLnUvaT0oyKN": {
-        "wins": 1,
+        "wins": 3,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 7,
         "name": "Strings",
         "artist": "Shawn Mendes"
     },
     "0aQA9DP54h37OevE7hRc2a": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "My Stress",
@@ -6386,8 +6386,8 @@
     "4h9wh7iOZ0GGn8QVp4RAOB": {
         "wins": 3,
         "losses": 0,
-        "draws": 1,
-        "points": 7,
+        "draws": 2,
+        "points": 8,
         "name": "I Ain't Worried",
         "artist": "OneRepublic"
     },
@@ -6441,7 +6441,7 @@
     },
     "1vvNmPOiUuyCbgWmtc6yfm": {
         "wins": 6,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 12,
         "name": "My Way",
@@ -6473,7 +6473,7 @@
     },
     "59HjlYCeBsxdI0fcm3zglw": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 2,
         "name": "Wildest Dreams",
@@ -6482,8 +6482,8 @@
     "1MFLgJxf4vcLxXubNlJE54": {
         "wins": 0,
         "losses": 0,
-        "draws": 2,
-        "points": 2,
+        "draws": 3,
+        "points": 3,
         "name": "\u697d\u5712",
         "artist": "Fujifabric"
     },
@@ -6538,8 +6538,8 @@
     "23wZtlzFdaPqJ5jTrcnXqZ": {
         "wins": 0,
         "losses": 1,
-        "draws": 2,
-        "points": 2,
+        "draws": 3,
+        "points": 3,
         "name": "aria",
         "artist": "uki3"
     },
@@ -6561,7 +6561,7 @@
     },
     "6fMpW2jYiXS6tpx2WgMIys": {
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "draws": 0,
         "points": 0,
         "name": "SUFFICE",
@@ -6576,10 +6576,10 @@
         "artist": "Conor Maynard"
     },
     "5zjnAPyUR1SIco3OrgZw7s": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "Orphan",
         "artist": "Luschka"
     },
@@ -6616,10 +6616,10 @@
         "artist": "David Westbom"
     },
     "2e1gUS6Wv8GS8ZT6FMeE1J": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "\u305f\u3060\u58f0\u4e00\u3064",
         "artist": "\u30ed\u30af\u30c7\u30ca\u30b7"
     },
@@ -6680,10 +6680,10 @@
         "artist": "Ukuletea"
     },
     "5FS79PQGFG4MGqsi0UIA5J": {
-        "wins": 3,
+        "wins": 4,
         "losses": 1,
         "draws": 0,
-        "points": 6,
+        "points": 8,
         "name": "Rabbit gray",
         "artist": "Eve"
     },
@@ -6705,7 +6705,7 @@
     },
     "46YSff2Rq1ZtN1YVk5cwbZ": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "Brave Shine",
@@ -6746,8 +6746,8 @@
     "0AC5vuXkYzMadIzBKkht20": {
         "wins": 2,
         "losses": 0,
-        "draws": 1,
-        "points": 5,
+        "draws": 2,
+        "points": 6,
         "name": "Narcissus",
         "artist": "ninzin"
     },
@@ -6896,10 +6896,10 @@
         "artist": "NF"
     },
     "5UVsz8nRCO3hJV1fp80Dll": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "Sunny",
         "artist": "Papa Ya"
     },
@@ -7064,10 +7064,10 @@
         "artist": "Chinozo"
     },
     "23819loyFZy90ggmhIMOfu": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "Broken Man",
         "artist": "Fox Stevenson"
     },
@@ -7136,10 +7136,10 @@
         "artist": "Mattyyym"
     },
     "3Qy7j6GkdY3ycf3E7dxfpJ": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "\u7a7a\u3068\u865a",
         "artist": "sasanomaly"
     },
@@ -7162,8 +7162,8 @@
     "6RUKPb4LETWmmr3iAEQktW": {
         "wins": 2,
         "losses": 2,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "Something Just Like This",
         "artist": "The Chainsmokers"
     },
@@ -7320,10 +7320,10 @@
         "artist": "Yuuri"
     },
     "42XeicjBjdyu7boDDtHkvu": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "\u30e2\u30ce\u30c8\u30fc\u30f3",
         "artist": "YOASOBI"
     },
@@ -7418,8 +7418,8 @@
     "6TT5vTinGLuUQcepMyZ21G": {
         "wins": 1,
         "losses": 0,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "Kanashii Ureshii",
         "artist": "frederic"
     },
@@ -7456,10 +7456,10 @@
         "artist": "BIN"
     },
     "275ULfjS2XcfhP7u4XXyft": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "\u30b7\u30e5\u30fc\u30af\u30ea\u30fc\u30e0\u30fb\u30d5\u30a1\u30f3\u30af",
         "artist": "Philosophy no Dance"
     },
@@ -7720,10 +7720,10 @@
         "artist": "Aretha Franklin"
     },
     "2C0zR1j4Xd5JVSrMABMFSG": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "The Brave",
         "artist": "YOASOBI"
     },
@@ -7761,7 +7761,7 @@
     },
     "5EMnqhRusjjg9vUMAX8lLP": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 3,
         "name": "The woodpecker cries at night",
@@ -7832,10 +7832,10 @@
         "artist": "NF"
     },
     "27j5sGsWlhwNtHz5gY5bMB": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 0,
-        "points": 6,
+        "points": 8,
         "name": "Like an idiot",
         "artist": "kakizaki yuta"
     },
@@ -7881,7 +7881,7 @@
     },
     "69cF34CNjzxX1ySIPJxtMf": {
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 3,
         "name": "\u30cf\u30ed",
@@ -7921,7 +7921,7 @@
     },
     "2K3wCwoO5yjlHuIatLfmtp": {
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 4,
         "name": "Direction",
@@ -7938,8 +7938,8 @@
     "3TSe07q4ZTuJFrw6S4K8ij": {
         "wins": 0,
         "losses": 4,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "OVER THE TOP",
         "artist": "Hiroshi Kitadani"
     },
@@ -7953,7 +7953,7 @@
     },
     "6Up545NUflOiXo8cEraH49": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 1,
         "points": 1,
         "name": "You Say",
@@ -8064,10 +8064,10 @@
         "artist": "Kanye West"
     },
     "1zVMJGPMWKmD4cjTTyf68y": {
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Rasputin - Club Mix",
         "artist": "Boney M."
     },
@@ -8096,16 +8096,16 @@
         "artist": "Post Malone"
     },
     "4dt6XKr0xKdPzjFhwB8dBm": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "That's Life - 2008 Remastered",
         "artist": "Frank Sinatra"
     },
     "4HzB7NklvWzndMtwZV82Ky": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "Let Me Dance",
@@ -8185,7 +8185,7 @@
     },
     "6QdP0hszMjRE3viB0F0GgD": {
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 4,
         "name": "Wild Side (From \"Beastars\")",
@@ -8193,7 +8193,7 @@
     },
     "58B2Zst8Dwrtg6RsICz7VJ": {
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 5,
         "name": "\u8a9e\u308b\u306b\u843d\u3061\u308b",
@@ -8241,7 +8241,7 @@
     },
     "52NDSSu9EvK6DzFBYA7jzq": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "Queen - Avilon Remix",
@@ -8281,7 +8281,7 @@
     },
     "6OnfBiiSc9RGKiBKKtZXgQ": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 2,
         "points": 4,
         "name": "We Built This City",
@@ -8369,7 +8369,7 @@
     },
     "62AuGbAkt8Ox2IrFFb8GKV": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 2,
         "name": "Sweet Caroline",
@@ -8409,7 +8409,7 @@
     },
     "4LWIp8HAFxpfg37mnxHqCS": {
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "points": 2,
         "name": "Never Be Alone",
@@ -8426,14 +8426,14 @@
     "1vrd6UOGamcKNGnSHJQlSt": {
         "wins": 1,
         "losses": 2,
-        "draws": 1,
-        "points": 3,
+        "draws": 2,
+        "points": 4,
         "name": "Love Story",
         "artist": "Taylor Swift"
     },
     "2PqSOrlabozEH6KXs7BvQr": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 1,
         "points": 1,
         "name": "Let Me Go",
@@ -8480,10 +8480,10 @@
         "artist": "majiko"
     },
     "6tEnRkIdujIHyeavek8Z4m": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "draws": 1,
-        "points": 5,
+        "points": 7,
         "name": "Born To Run",
         "artist": "K-OS"
     },
@@ -8505,7 +8505,7 @@
     },
     "1DBGqeYBeHocF25x8jyvfg": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Paint Like a Child",
@@ -8521,7 +8521,7 @@
     },
     "2PWTZV5znjLtZC5T1EVJvL": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 3,
         "name": "this is what falling in love feels like",
@@ -8536,10 +8536,10 @@
         "artist": "Tsukuyomi"
     },
     "0ggHt5jwwtMsWME2PDB6a0": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "COLORS",
         "artist": "FLOW"
     },
@@ -8594,8 +8594,8 @@
     "09whJpL9FQymbgUb6XH4Mg": {
         "wins": 0,
         "losses": 1,
-        "draws": 2,
-        "points": 2,
+        "draws": 3,
+        "points": 3,
         "name": "Get up Again",
         "artist": "SUPERSPECIAL"
     },
@@ -8625,7 +8625,7 @@
     },
     "3UUPQ4sAtAVnkcaSr06NBi": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "points": 0,
         "name": "Look Up Child",
@@ -8658,16 +8658,16 @@
     "0OgBVLavb1pwjCQRvQCF30": {
         "wins": 0,
         "losses": 2,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Loveit? (feat. LOLUET)",
         "artist": "biz"
     },
     "6DyZR5AePalnv39OzWgPUr": {
         "wins": 2,
         "losses": 0,
-        "draws": 1,
-        "points": 5,
+        "draws": 2,
+        "points": 6,
         "name": "If there is not such a life",
         "artist": "Tsukuyomi"
     },
@@ -8753,7 +8753,7 @@
     },
     "3DJtOEjnHQemekvG3IYUfq": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 1,
         "points": 1,
         "name": "Face It",
@@ -8809,7 +8809,7 @@
     },
     "0TAUAUIEtq06TdQDVlUSxW": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 2,
         "points": 2,
         "name": "Hurricane",
@@ -8970,8 +8970,8 @@
     "66s5a6AXKYKE5ZOnt45BDa": {
         "wins": 0,
         "losses": 2,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "I Know What I Want",
         "artist": "Flyers"
     },
@@ -9090,8 +9090,8 @@
     "5G2eGjZUjSoyahzfJ7Qgwr": {
         "wins": 0,
         "losses": 1,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "Layla",
         "artist": "40mP"
     },
@@ -9152,10 +9152,10 @@
         "artist": "Imagine Dragons"
     },
     "2MZrOmrVxRmmOoFW6dhenG": {
-        "wins": 0,
+        "wins": 1,
         "losses": 2,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "LOST",
         "artist": "NF"
     },
@@ -9201,7 +9201,7 @@
     },
     "3ilt7lMNflb49pEDpcZPAa": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 2,
         "name": "Aftertaste",
@@ -9232,10 +9232,10 @@
         "artist": "Tsukuyomi"
     },
     "08mpiFeuRWQeJsswcdSTDl": {
-        "wins": 4,
+        "wins": 5,
         "losses": 0,
         "draws": 1,
-        "points": 9,
+        "points": 11,
         "name": "Falling Faster",
         "artist": "Dylan Espeseth"
     },
@@ -9256,10 +9256,10 @@
         "artist": "Coldplay"
     },
     "4EgPDbIlPXbD9WNuveifEp": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 2,
-        "points": 2,
+        "points": 4,
         "name": "I'm Not Bitter",
         "artist": "Da\u00f0i Freyr"
     },
@@ -9312,10 +9312,10 @@
         "artist": "Cody\u30fbLee(\u674e)"
     },
     "7op1qWGy2YvnnCS7n5MdYc": {
-        "wins": 0,
-        "losses": 2,
+        "wins": 1,
+        "losses": 3,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "\u547d\u306b\u5acc\u308f\u308c\u3066\u3044\u308b",
         "artist": "\u30ab\u30f3\u30b6\u30ad\u30a4\u30aa\u30ea"
     },
@@ -9330,8 +9330,8 @@
     "5EpNOQGOyrzdZRTNUxVk3w": {
         "wins": 0,
         "losses": 2,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Another",
         "artist": "Tis Tis"
     },
@@ -9345,7 +9345,7 @@
     },
     "6VmDYwUJg5hN5lREUzYsi8": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 2,
         "points": 2,
         "name": "Superstarr Part 1 (Yoshua's Song)",
@@ -9376,10 +9376,10 @@
         "artist": "Keith Power"
     },
     "44z0ijVFwQhEKgvUwQtj6t": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 0,
-        "points": 6,
+        "points": 8,
         "name": "Aisai",
         "artist": "Eve"
     },
@@ -9504,10 +9504,10 @@
         "artist": "iNi Kamoze"
     },
     "45tD5FiRiU91ya2H62j8cL": {
-        "wins": 5,
+        "wins": 6,
         "losses": 1,
         "draws": 0,
-        "points": 10,
+        "points": 12,
         "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc (Directors Edit Version)",
         "artist": "Yoko Takahashi"
     },
@@ -9641,7 +9641,7 @@
     },
     "5aDVNw5prQNcjWF02jhxmo": {
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "draws": 1,
         "points": 3,
         "name": "Sing The Moon",
@@ -9656,10 +9656,10 @@
         "artist": "vivid undress"
     },
     "01aTsQoKoeXofSTvKuunzv": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "Lean On",
         "artist": "Major Lazer"
     },
@@ -9681,7 +9681,7 @@
     },
     "7Lf7oSEVdzZqTA0kEDSlS5": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Cry Me a River",
@@ -9704,10 +9704,10 @@
         "artist": "Enjoy Music Club"
     },
     "08mG3Y1vljYA6bvDt4Wqkj": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 1,
-        "points": 5,
+        "points": 7,
         "name": "Back In Black",
         "artist": "AC/DC"
     },
@@ -9737,7 +9737,7 @@
     },
     "1oZMj4FnVdIm3Nf2tAzmRO": {
         "wins": 0,
-        "losses": 2,
+        "losses": 4,
         "draws": 0,
         "points": 0,
         "name": "Underground",
@@ -9802,8 +9802,8 @@
     "4hD4Q2BNH50ryovUWNzXKe": {
         "wins": 1,
         "losses": 0,
-        "draws": 1,
-        "points": 3,
+        "draws": 2,
+        "points": 4,
         "name": "Dopamine (Split Brain Version)",
         "artist": "Madelline"
     },
@@ -9818,8 +9818,8 @@
     "4n5f6vydWvNsCcQH6p1Bmw": {
         "wins": 4,
         "losses": 0,
-        "draws": 2,
-        "points": 10,
+        "draws": 3,
+        "points": 11,
         "name": "\u524d\u524d\u524d\u4e16 - movie ver.",
         "artist": "RADWIMPS"
     },
@@ -9832,10 +9832,10 @@
         "artist": "Cartoon"
     },
     "1zFqm5q86Rj1ibrhUtHU3b": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 2,
-        "points": 2,
+        "points": 4,
         "name": "The Court Jester",
         "artist": "thquib"
     },
@@ -9850,8 +9850,8 @@
     "777zXDJpBufzttU4AJ2dGO": {
         "wins": 1,
         "losses": 0,
-        "draws": 1,
-        "points": 3,
+        "draws": 2,
+        "points": 4,
         "name": "I Don't Want To Set The World On Fire",
         "artist": "The Ink Spots"
     },
@@ -10057,7 +10057,7 @@
     },
     "6RtPijgfPKROxEzTHNRiDp": {
         "wins": 3,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 7,
         "name": "Rude",
@@ -10081,7 +10081,7 @@
     },
     "7ssFG94tZHpX9vbIFM0GVH": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 1,
         "name": "No Excuses",
@@ -10248,10 +10248,10 @@
         "artist": "Hisatomi"
     },
     "6LG512zieVoACoxIT7ymKT": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 2,
-        "points": 4,
+        "points": 6,
         "name": "save",
         "artist": "SUSHIBOYS"
     },
@@ -10361,17 +10361,17 @@
     },
     "7FpABRyv5TaZz0llkhjPgc": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "\u8272\u9999\u6c34",
         "artist": "Yoh kamiyama"
     },
     "0tffNoL4418lhzZmJJFNB7": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "Moon",
         "artist": "Kanye West"
     },
@@ -10504,10 +10504,10 @@
         "artist": "Aiobahn"
     },
     "4v7IE994aBZEjlo2tzZnhQ": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "Nosedive",
         "artist": "BoyWithUke"
     },
@@ -10673,7 +10673,7 @@
     },
     "38vvNHDjXFzApK1EejnTwp": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 3,
         "name": "Guren no Yumiya",
@@ -10722,16 +10722,16 @@
     "69lJz2fXXptw0YU5hF3L47": {
         "wins": 0,
         "losses": 1,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "KIMINOMAMA",
         "artist": "MUKADE"
     },
     "58ZHuSI9SWvWU66n43kafK": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "Softly Spoken",
         "artist": "Phum Viphurit"
     },
@@ -10754,8 +10754,8 @@
     "0DeB9abggMZdtiBfHGJ1qm": {
         "wins": 0,
         "losses": 0,
-        "draws": 2,
-        "points": 2,
+        "draws": 3,
+        "points": 3,
         "name": "\u7a7a\u8749",
         "artist": "Omoinotake"
     },
@@ -10793,7 +10793,7 @@
     },
     "7r9kOxiNDnkAg5QKqtyjVk": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 2,
         "name": "Rescue",
@@ -10858,8 +10858,8 @@
     "3UlYBTkShcEsMYSXtC5Vu1": {
         "wins": 0,
         "losses": 0,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "Jesus Lord pt 2",
         "artist": "Kanye West"
     },
@@ -10922,8 +10922,8 @@
     "77OLrw9sVVNHxnceM9q1i5": {
         "wins": 0,
         "losses": 1,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "BROKEN GAMES",
         "artist": "FZMZ"
     },
@@ -11016,10 +11016,10 @@
         "artist": "Ghostnaut"
     },
     "2qJnXUokBc5b38TAEOGnUx": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "\u591c\u306b\u99c6\u3051\u308b - From THE FIRST TAKE",
         "artist": "YOASOBI"
     },
@@ -11194,8 +11194,8 @@
     "6usohdchdzW9oML7VC4Uhk": {
         "wins": 0,
         "losses": 2,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Lose Control",
         "artist": "Teddy Swims"
     },
@@ -11225,7 +11225,7 @@
     },
     "6IP3GvRj6Rc65rly1rIHq5": {
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 4,
         "name": "\u30ec\u30c7\u30a3\u30e1\u30a4\u30c9",
@@ -11282,8 +11282,8 @@
     "6k0X05danQOXSBTVek5DU1": {
         "wins": 0,
         "losses": 0,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "The Rumbling",
         "artist": "SiM"
     },
@@ -11344,10 +11344,10 @@
         "artist": "WAR*HALL"
     },
     "6yZjEE1izAcgaGz29JkBTO": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 1,
-        "points": 3,
+        "points": 5,
         "name": "Kiss the villain",
         "artist": "40mP"
     },
@@ -11378,8 +11378,8 @@
     "5cdBPBfYeRFDZWHAk4UPOH": {
         "wins": 1,
         "losses": 0,
-        "draws": 1,
-        "points": 3,
+        "draws": 2,
+        "points": 4,
         "name": "Blue Skies",
         "artist": "Frank Sinatra"
     },
@@ -11417,7 +11417,7 @@
     },
     "6L15tAYXnwLc5pJF27V8rd": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Battlecry",
@@ -11456,10 +11456,10 @@
         "artist": "Enako"
     },
     "6Qj1WXW41Mn3Fh9V2sHphM": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "On Top Of The World",
         "artist": "Imagine Dragons"
     },
@@ -11576,10 +11576,10 @@
         "artist": "Walker Hayes"
     },
     "0hY8RDFIHTkSud4vCfg7Lp": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 1,
+        "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "Bravely You",
         "artist": "Hikaru Station"
     },
@@ -11601,7 +11601,7 @@
     },
     "454SeJlQG6DyUK0QkhtKly": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "Papercutz/The Mirror",
@@ -11745,7 +11745,7 @@
     },
     "5aEHX6BZHzjI8h9zZNcskZ": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Don't you want me (feat. Such)",
@@ -11777,7 +11777,7 @@
     },
     "2s1imOhCAAdApnMs5zZUYG": {
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "draws": 0,
         "points": 0,
         "name": "Tell the World",
@@ -11826,8 +11826,8 @@
     "5EWPGh7jbTNO2wakv8LjUI": {
         "wins": 3,
         "losses": 1,
-        "draws": 0,
-        "points": 6,
+        "draws": 1,
+        "points": 7,
         "name": "Free Bird",
         "artist": "Lynyrd Skynyrd"
     },
@@ -11841,7 +11841,7 @@
     },
     "1iOQmZULzzkDN1hQZNoDii": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 2,
         "name": "\u30aa\u30ec\u30f3\u30b8",
@@ -11962,8 +11962,8 @@
     "2Kqp0jAtfMK1HU6ozTrTNH": {
         "wins": 1,
         "losses": 1,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "B-Boy Stance",
         "artist": "K-OS"
     },
@@ -12032,10 +12032,10 @@
         "artist": "Ed Sheeran"
     },
     "3mz4a9TGjb2kOzIpe5F3hW": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "V.I.P",
         "artist": "SID"
     },
@@ -12064,10 +12064,10 @@
         "artist": "Trickle"
     },
     "11ozIUBoXAgRTVWelDn4pL": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Lights",
         "artist": "Ellie Goulding"
     },
@@ -12136,10 +12136,10 @@
         "artist": "\"Weird Al\" Yankovic"
     },
     "7z5wvM0WpNa0v7Xp3OH2sc": {
-        "wins": 5,
+        "wins": 6,
         "losses": 1,
         "draws": 0,
-        "points": 10,
+        "points": 12,
         "name": "Loving You From a Distance",
         "artist": "jomm"
     },
@@ -12154,16 +12154,16 @@
     "7eln5FHo4COAJwfwcEMNK0": {
         "wins": 2,
         "losses": 2,
-        "draws": 0,
-        "points": 4,
+        "draws": 1,
+        "points": 5,
         "name": "Ikanaide - album ver",
         "artist": "Eve"
     },
     "1UpmaO8TzvCvmNeNKyK3aE": {
         "wins": 1,
         "losses": 1,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "Zambony",
         "artist": "K-OS"
     },
@@ -12218,8 +12218,8 @@
     "1pCcNaCodPssCc8Aq68gPS": {
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Kaiju no Hanauta",
         "artist": "Vaundy"
     },
@@ -12376,18 +12376,18 @@
         "artist": "Nic D"
     },
     "0pEeurFyp2xMwUX57NgmUQ": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Lead Your Partner",
         "artist": "Tao Tsuchiya"
     },
     "3MQTl86jub6KbdirMaEuGE": {
         "wins": 2,
         "losses": 0,
-        "draws": 1,
-        "points": 5,
+        "draws": 2,
+        "points": 6,
         "name": "VORTEX - \u300a\u65f6\u5149\u4ee3\u7406\u4eba\u7b2c\u4e8c\u5b63\u300b\u52a8\u753b\u7247\u5934\u66f2",
         "artist": "BaishaJAWS"
     },
@@ -12480,10 +12480,10 @@
         "artist": "VK Blanka"
     },
     "760jhRscwGbIIe1m1IIQpU": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Surface Pressure",
         "artist": "Jessica Darrow"
     },
@@ -12520,10 +12520,10 @@
         "artist": "STIM"
     },
     "6sxptembJVty4sNtcPMAVz": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Man! I Feel Like A Woman!",
         "artist": "Shania Twain"
     },
@@ -12632,10 +12632,10 @@
         "artist": "YOASOBI"
     },
     "1y3Ml1b1c4v3ZdpbWLKD1F": {
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "FLY HIGH!!",
         "artist": "BURNOUT SYNDROMES"
     },
@@ -12664,10 +12664,10 @@
         "artist": "Eve"
     },
     "2bsQ83Gl6J4IigVW9tpbrU": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 1,
-        "points": 7,
+        "points": 9,
         "name": "Follow Me",
         "artist": "K-OS"
     },
@@ -12754,8 +12754,8 @@
     "2ILz4eU7UCTv0Wup7F5lVt": {
         "wins": 1,
         "losses": 0,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044",
         "artist": "meiyo"
     },
@@ -12793,7 +12793,7 @@
     },
     "5SHTX2Lhxyj5WL17xL8l7l": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 2,
         "points": 2,
         "name": "Be Around",
@@ -13000,10 +13000,10 @@
         "artist": "NF"
     },
     "7vN1ik0pHkmZRosF9Op0rc": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "First Rate Town",
         "artist": "Good Kid"
     },
@@ -13122,8 +13122,8 @@
     "0kdqcbwei4MDWFEX5f33yG": {
         "wins": 1,
         "losses": 0,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "Bling-Bang-Bang-Born",
         "artist": "Creepy Nuts"
     },
@@ -13161,7 +13161,7 @@
     },
     "2k0AgmOqnpJCcFfk9etl5U": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 2,
         "name": "\u544a\u5225\u5f0f",
@@ -13314,14 +13314,14 @@
     "3ty4jnVIJ9My8ZnXFMc0Fg": {
         "wins": 0,
         "losses": 2,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "\u611b\u3057\u3066 \u611b\u3057\u3066 \u611b\u3057\u3066",
         "artist": "Kikuo"
     },
     "0jpP8AlQLVtaMwA3vQYpYB": {
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 2,
         "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
@@ -13377,7 +13377,7 @@
     },
     "38SQqvswFiyjhLiKSLoL6C": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 3,
         "name": "Orange Colored Sky",
@@ -13400,10 +13400,10 @@
         "artist": "FAKY"
     },
     "0s9RsF8fxKXUorxCAGthRZ": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "Talk Of The Town (Freestyle)",
         "artist": "163Margs"
     },
@@ -13450,8 +13450,8 @@
     "55n4sFy8tjysBcCjQFwX3A": {
         "wins": 0,
         "losses": 0,
-        "draws": 2,
-        "points": 2,
+        "draws": 3,
+        "points": 3,
         "name": "CORE PRIDE",
         "artist": "UVERworld"
     },
@@ -13473,7 +13473,7 @@
     },
     "67Zrgf1AUktvq39nMq0k5M": {
         "wins": 1,
-        "losses": 1,
+        "losses": 3,
         "draws": 1,
         "points": 3,
         "name": "To the Sky",
@@ -13505,7 +13505,7 @@
     },
     "3GFs9M3PfhLpRU7bxTffZf": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "draws": 2,
         "points": 2,
         "name": "comfortably you",
@@ -13608,10 +13608,10 @@
         "artist": "Marshmello"
     },
     "3lU8LyG9cDYBmIZlbyuapQ": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "Till the End",
         "artist": "ReoNa"
     },
@@ -13624,10 +13624,10 @@
         "artist": "Zamir"
     },
     "4Iz171BOalhbOxdlodJSJD": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "Kid In Love",
         "artist": "Shawn Mendes"
     },
@@ -13705,7 +13705,7 @@
     },
     "1bLjm7Gqjbuv57OxZdhLrP": {
         "wins": 1,
-        "losses": 1,
+        "losses": 4,
         "draws": 2,
         "points": 4,
         "name": "Congratulations",
@@ -13857,17 +13857,17 @@
     },
     "0ohuqaC5xIzWLzCgZqhxzU": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 1,
         "points": 1,
         "name": "No One's in This Alone",
         "artist": "Static-P"
     },
     "6Vq7kjvxcNiLmVYhnaW9ds": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 1,
-        "points": 5,
+        "points": 7,
         "name": "Snobbism - Cover",
         "artist": "Mafumafu"
     },
@@ -13889,17 +13889,17 @@
     },
     "3Gqvfg9F5XZU89mpYBS2R6": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "The Tornado",
         "artist": "Owl City"
     },
     "5t9KtCfnu8wQui1G6IqqBR": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "God's Plan",
         "artist": "Drake"
     },
@@ -14032,10 +14032,10 @@
         "artist": "FLOW"
     },
     "1XeOqgzh2fZhmgxnmyiIJ8": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
-        "draws": 3,
-        "points": 5,
+        "draws": 4,
+        "points": 8,
         "name": "\u6b8b\u6a5f",
         "artist": "ZUTOMAYO"
     },
@@ -14074,8 +14074,8 @@
     "00EAiVX99rZ4rlYFLItPcC": {
         "wins": 1,
         "losses": 1,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "\u58f0?",
         "artist": "\u306f\u3066\u306a"
     },
@@ -14105,7 +14105,7 @@
     },
     "01WJWHv12F3nWeXGYsmOOs": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Our Way Out",
@@ -14160,18 +14160,18 @@
         "artist": "Tsukuyomi"
     },
     "5VGaB3oRB4sbE0319THNTu": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Somewhere Out There",
         "artist": "Donald Glover & Danny Pudi"
     },
     "5flerg6aEao2VayZezVlgu": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "Insane",
         "artist": "Black Gryph0n"
     },
@@ -14233,7 +14233,7 @@
     },
     "7vsCfQ5TBetZCHJ5uk9Ui2": {
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 4,
         "name": "Crucial",
@@ -14265,7 +14265,7 @@
     },
     "3SfnsExYXLlbW9NByxb4L2": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "sync",
@@ -14304,10 +14304,10 @@
         "artist": "Justin Timberlake"
     },
     "37vujUbX37xoBmwoddMYck": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "FightSong",
         "artist": "Eve"
     },
@@ -14392,10 +14392,10 @@
         "artist": "ClariS"
     },
     "3X805DNadxmbeIZQBrex85": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "River Below",
         "artist": "Billy Talent"
     },
@@ -14450,8 +14450,8 @@
     "1lZeqR3QZExwywt1Fwh90J": {
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "\u30d2\u30ab\u30ea\u3078",
         "artist": "The BabyStars"
     },
@@ -14537,7 +14537,7 @@
     },
     "6TaOHCEjas8b3Mm4tNZ31g": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 1,
         "name": "\u30d2\u30a2\u30bd\u30d3 (feat. \u521d\u97f3\u30df\u30af)",
@@ -14674,8 +14674,8 @@
     "1Mf27cnAF1Q6Ko83XTM5d1": {
         "wins": 0,
         "losses": 1,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "Glitter & Gold",
         "artist": "Barns Courtney"
     },
@@ -14769,7 +14769,7 @@
     },
     "1Q3HtTFGxjmEljAw7Y0CaR": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Options",
@@ -14825,7 +14825,7 @@
     },
     "2hnz0zFFlrf95nCc5OfZzc": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 2,
         "name": "We Go! (One Piece)",
@@ -14849,7 +14849,7 @@
     },
     "6Knv6wdA0luoMUuuoYi2i1": {
         "wins": 0,
-        "losses": 1,
+        "losses": 4,
         "draws": 0,
         "points": 0,
         "name": "My House",
@@ -14960,18 +14960,18 @@
         "artist": "xaptiox"
     },
     "0Ky2izBWiap8StmEahg8fr": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0,
         "draws": 0,
-        "points": 6,
+        "points": 8,
         "name": "namarinokanmuri",
         "artist": "uki3"
     },
     "0sUDRs6IsFW6vZSLuHS531": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "\u5922\u306e\u3088\u3046\u306a",
         "artist": "\u4f50\u4f2f\u30e6\u30a6\u30b9\u30b1"
     },
@@ -15010,8 +15010,8 @@
     "7vzqFnZSbIcRaSBvjl8ilD": {
         "wins": 1,
         "losses": 1,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "Dancing Ghost's Ball Jointed Darling",
         "artist": "Mili"
     },
@@ -15064,10 +15064,10 @@
         "artist": "kroh"
     },
     "6WaJHcNmYwgptzPjhEz1ee": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Yuseiboushi",
         "artist": "Eve"
     },
@@ -15090,8 +15090,8 @@
     "4fu7kFgKu4UazLx7gxCg3B": {
         "wins": 0,
         "losses": 0,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "Astrogirl",
         "artist": "\u4e5d\u5341\u4e5d\u4f50\u547d"
     },
@@ -15112,10 +15112,10 @@
         "artist": "Slightly Left of Centre"
     },
     "6EIKNn0NyCIEAeUUuLbYiJ": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "points": 4,
+        "points": 6,
         "name": "Leon the Professional",
         "artist": "Knucks"
     },
@@ -15137,7 +15137,7 @@
     },
     "1kO0nC4VnEjMBeJZI7g2T2": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
         "points": 0,
         "name": "My Life",
@@ -15178,8 +15178,8 @@
     "0QxUDD87uCY6G9hcWGVMMu": {
         "wins": 1,
         "losses": 0,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "\u30a8\u30ea\u30fc\u30c8",
         "artist": "Chinozo"
     },
@@ -15496,10 +15496,10 @@
         "artist": "Will Stetson"
     },
     "7oV1mzPC3YZ8IGsReVZC0H": {
-        "wins": 0,
+        "wins": 2,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 4,
         "name": "Romance",
         "artist": "YOASOBI"
     },
@@ -15553,7 +15553,7 @@
     },
     "1xpv91J8U0dmQK9m9Bi0Bb": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 1,
         "name": "HERO",
@@ -15578,8 +15578,8 @@
     "5oLWKwAejXRkOv8bKaTBO7": {
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "Turn The Music Up",
         "artist": "NF"
     },
@@ -15625,7 +15625,7 @@
     },
     "0ZfByLXCeKchuj7zi1CJ0S": {
         "wins": 0,
-        "losses": 2,
+        "losses": 4,
         "draws": 0,
         "points": 0,
         "name": "Stolen Dance",
@@ -15665,7 +15665,7 @@
     },
     "3M1RQSSxQiZs8fooz4Qo0y": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "TICTAC",
@@ -15728,10 +15728,10 @@
         "artist": "Trickle"
     },
     "33TscMrWB0nf6bDfmldQUM": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "Fridays",
         "artist": "Can't Stop Won't Stop"
     },
@@ -15753,7 +15753,7 @@
     },
     "3KwwE4sgCzMaKWq6QBebmX": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Me Too",
@@ -15793,7 +15793,7 @@
     },
     "1GI3vlyhTO56GzE4KAzWnn": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 1,
         "points": 3,
         "name": "\u5265\u304c\u308c\u3066\u304f",
@@ -15929,7 +15929,7 @@
     },
     "5X3T8jHNIJSXviiDmiBdz0": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Enemy",
@@ -15944,10 +15944,10 @@
         "artist": "Tommy Richman"
     },
     "2cwvwUyyjjFsv55EywX9Zo": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "\u5149\u308b\u306a\u3089",
         "artist": "Goose house"
     },
@@ -15962,8 +15962,8 @@
     "0WZV17gf49CQbqJRsrL0gv": {
         "wins": 1,
         "losses": 1,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 3,
         "name": "Spring Lovers",
         "artist": "Minuano"
     },
@@ -15985,7 +15985,7 @@
     },
     "0NWgNMQipqKbm2sauZQSIA": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "Underdog",
@@ -16064,10 +16064,10 @@
         "artist": "nowisee"
     },
     "0ZGm6HQOMBKV1W7bOLyyi2": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
-        "draws": 0,
-        "points": 2,
+        "draws": 1,
+        "points": 5,
         "name": "Mistake",
         "artist": "1Booth"
     },
@@ -16161,9 +16161,9 @@
     },
     "66gqGFhqcoEjiCcp02rsir": {
         "wins": 1,
-        "losses": 1,
-        "draws": 0,
-        "points": 2,
+        "losses": 2,
+        "draws": 1,
+        "points": 3,
         "name": "Only Wonder",
         "artist": "frederic"
     },
@@ -16282,8 +16282,8 @@
     "5Nm9ERjJZ5oyfXZTECKmRt": {
         "wins": 0,
         "losses": 0,
-        "draws": 1,
-        "points": 1,
+        "draws": 2,
+        "points": 2,
         "name": "Stay With Me",
         "artist": "Sam Smith"
     },
@@ -16345,7 +16345,7 @@
     },
     "06XQvnJb53SUYmlWIhUXUi": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "points": 0,
         "name": "\u602a\u7269",
@@ -16353,7 +16353,7 @@
     },
     "0dnkpPwcHK8UIZXhhN86Ss": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "points": 2,
         "name": "Black Rover",
@@ -16416,10 +16416,10 @@
         "artist": "Morgan Wallen"
     },
     "3xZAPYhlhbuAU3bPk7er8Q": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "\u30c8\u30fc\u30c8\u30ed\u30b8\u30fc",
         "artist": "Omoinotake"
     },
@@ -16472,10 +16472,10 @@
         "artist": "Shawn Mendes"
     },
     "15IfeWfzxJtcKBgx6oDHvl": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "points": 2,
+        "points": 4,
         "name": "Blur",
         "artist": "Dhruv"
     },
@@ -16520,10 +16520,10 @@
         "artist": "YOASOBI"
     },
     "4LTr1OY6Io9Ou8woSBrgce": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "Darlin'",
         "artist": "Senninsho"
     },
@@ -16538,8 +16538,8 @@
     "1CruCvvFpvyiefcWYf0lEj": {
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "points": 0,
+        "draws": 1,
+        "points": 1,
         "name": "resonance",
         "artist": "T.M.Revolution"
     },
@@ -16560,10 +16560,10 @@
         "artist": "BiSH"
     },
     "0rmGAIH9LNJewFw7nKzZnc": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 1,
-        "points": 1,
+        "points": 3,
         "name": "You Give Love A Bad Name",
         "artist": "Bon Jovi"
     },
@@ -16760,10 +16760,10 @@
         "artist": "The Jackson 5"
     },
     "6tVZhzfdoOxTAMqJEJdP26": {
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
         "draws": 0,
-        "points": 0,
+        "points": 2,
         "name": "Rockefeller Street (Nightcore)",
         "artist": "Caleb Hyles"
     },
@@ -16822,5 +16822,253 @@
         "points": 2,
         "name": "Sixteen Tons",
         "artist": "Geoff Castellucci"
+    },
+    "66Aox16AXYiqZum37rTDRG": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3",
+        "artist": "SPYAIR"
+    },
+    "7gm59KVXfG8wEAfN3Lv2Xu": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "\u30ea\u30bb\u30c3\u30c8",
+        "artist": "Taichi Mukai"
+    },
+    "0Mj3165N775WMlpDFVZqD1": {
+        "wins": 1,
+        "losses": 1,
+        "draws": 0,
+        "points": 2,
+        "name": "lili.",
+        "artist": "uki3"
+    },
+    "7raKnLKyQSatDiVVpiZDds": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
+        "artist": "\u30e8\u30eb\u30b7\u30ab"
+    },
+    "4feXcsElKIVsGwkbnTHAfV": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "Somethin' Stupid",
+        "artist": "Frank Sinatra"
+    },
+    "1TXhBe3DnaOFc7onTbEoiB": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "\u30bb\u30d6\u30f3\u30c6\u30a3\u30fc\u30f3",
+        "artist": "YOASOBI"
+    },
+    "4mz73tXbsKITt5gc3OQOqO": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "\u5317\u4e0a\u306e\u30b9\u30b9\u30e1",
+        "artist": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc"
+    },
+    "2Tl9plCC1mml1tS9jepjC4": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "\u3072\u307e\u308f\u308a",
+        "artist": "Kenshi Yonezu"
+    },
+    "3CnUGF7phvydXWBJUBDDP6": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "The Villain I Appear to Be",
+        "artist": "Connor Spiotto"
+    },
+    "4Np6kXPX2LMzawHHhPVVHm": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "Superstarr Pt. Zero",
+        "artist": "K-OS"
+    },
+    "5Aqe880HNpsQAkjWqWGqdu": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "\u93e1\u306e\u4e2d\u306e\u30a2\u30af\u30c8\u30ec\u30b9",
+        "artist": "Meiko Nakahara"
+    },
+    "null": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "points": 0,
+        "name": "(4) Sogeking Theme - Funimation Dub - YouTube - Google Chrome",
+        "artist": "Microsoft Game DVR"
+    },
+    "1xaTREM89RbIxkcjlpf4Uw": {
+        "wins": 1,
+        "losses": 1,
+        "draws": 0,
+        "points": 2,
+        "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+        "artist": "The Smiths"
+    },
+    "1KQc37jezhunxnOPhvdwSG": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "Numb Little Bug",
+        "artist": "Em Beihold"
+    },
+    "08q2CrXYf1ZaMbcKViPdVA": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "JOJO SONO CHINO SADAME",
+        "artist": "Hiroaki Tommy Tominaga"
+    },
+    "1qNqYFfxuTPHwYmRMCdzdt": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "It's Raining After All",
+        "artist": "TUYU"
+    },
+    "6UelLqGlWMcVH1E5c4H7lY": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "Watermelon Sugar",
+        "artist": "Harry Styles"
+    },
+    "3wxq0UfOY6DaNkCEJdp6FL": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "Bangarang (From \"Deadpool 2\")",
+        "artist": "CDM Project"
+    },
+    "6s0uvfD0JqvmfS8nCpFlux": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "Laundry",
+        "artist": "Yoh kamiyama"
+    },
+    "4m4aQLiPbWFyE07xRoJPhc": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "L O V E",
+        "artist": "Michael Bubl\u00e9"
+    },
+    "3KBlutfYq0kxQWl2P9t4Ht": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "\u304c\u3089\u304f\u305f - JUNK",
+        "artist": "Kenshi Yonezu"
+    },
+    "6YmxdxyhTTNH616zIhYDPt": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "Burn It to the Ground",
+        "artist": "Nickelback"
+    },
+    "4hHbeIIKO5Y5uLyIEbY9Gn": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "Come Fly With Me - Remastered 1998",
+        "artist": "Frank Sinatra"
+    },
+    "7ugSlmtBWNMAgTpdvBPcIh": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "\u30a2\u30dd\u30ea\u30a2",
+        "artist": "\u30e8\u30eb\u30b7\u30ab"
+    },
+    "5YSw66ity04TmWzSEURZki": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "points": 0,
+        "name": "The Death of a Bachelor",
+        "artist": "VoicePlay"
+    },
+    "3ILmwMefYZoQh5Cf5jeuUQ": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "\u900f\u660e\u3060\u3063\u305f\u4e16\u754c",
+        "artist": "Motohiro Hata"
+    },
+    "096KHkONhQm4MQNH35mU22": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "\u9b3c\u30ce\u5bb4",
+        "artist": "\u53cb\u6210\u7a7a"
+    },
+    "5SPwzvYuJCkeXmbwi3lVID": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "Long Kiss Good Bye",
+        "artist": "HALCALI"
+    },
+    "3uXKEQTzOngrZ1WWyMzuqO": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "points": 2,
+        "name": "\u30ab\u30e9\u30ce\u30b3\u30b3\u30ed",
+        "artist": "Anly"
+    },
+    "2xj3BQ7AzGTwUWaroRTVCx": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "Hard",
+        "artist": "Why Don't We"
+    },
+    "38DgNqC7TQkZ3Ih5Vz6K0Q": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "points": 1,
+        "name": "Call Me Maybe",
+        "artist": "Carly Rae Jepsen"
     }
 }
