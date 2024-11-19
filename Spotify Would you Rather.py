@@ -117,12 +117,16 @@ def display_rankings():
         reverse=True
     )
 
+    i=0
     print("\nSong Rankings (by point percentage):")
     for rank, (song_id, data) in enumerate(sorted_rankings, start=1):
         total_matches = data["wins"] + data["losses"] + data["draws"]
         max_points = 2 * total_matches  # For point percentage calculation
         point_percentage = (data["points"] / max_points) if total_matches > 0 else 0
         print(f"{rank}. {data['name']} by {data['artist']} - W: {data['wins']} | L: {data['losses']} | D: {data['draws']} | Score: {data['points']} | Point %: {point_percentage:.4f}")
+        i += total_matches
+    print("number of matches: " + str(i//2))    
+
 
 # Run the program
 choose_songs()
