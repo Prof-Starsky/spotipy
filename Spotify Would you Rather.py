@@ -4,8 +4,8 @@ import json
 import random
 
 # Spotify API credentials (replace with your client ID and client secret)
-SPOTIPY_CLIENT_ID = 'Fill this in'
-SPOTIPY_CLIENT_SECRET = 'Fill this in'
+SPOTIPY_CLIENT_ID = '23539e9256f840e2b35065228fa05555'
+SPOTIPY_CLIENT_SECRET = '6fc91146d2ae4021a0fb3f2be7eae699'
 SPOTIPY_REDIRECT_URI = 'https://developer.spotify.com/'
 
 
@@ -44,8 +44,12 @@ def choose_songs():
     # Select multiple playlists
     playlists = get_user_playlists()
     print("Select playlists to compare songs from (comma-separated):")
+    print(playlists)
     for i, playlist in enumerate(playlists):
-        print(f"{i + 1}: {playlist['name']}")
+        try:
+            print(f"{i + 1}: {playlist['name']}")
+        except TypeError:
+            print("filler")
     playlist_indices = input("Enter the playlist numbers (e.g., 1,3,5): ")
     playlist_indices = [int(i.strip()) - 1 for i in playlist_indices.split(',')]
     selected_playlist_ids = [playlists[i]['id'] for i in playlist_indices]
